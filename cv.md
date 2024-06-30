@@ -14,9 +14,9 @@
 
   - Location: Poznan, Poland
   - Phone: +48 731 690 917
-  - LinkedIn: linkedin.com/in/aleksandr-shamko
+  - LinkedIn: https://linkedin.com/in/aleksandr-shamko
   - CodeWors: https://www.codewars.com/users/AlShamko
-  - GitHub: AlShamko
+  - GitHub: https://github.com/AlShamko/
   - Email: shamkoag@gmail.com
 
 ***
@@ -39,4 +39,4 @@
 
 ## English
 
-  A2+ (I had been practicing English, when I worked in the USA as an exchange student)
+  A2
