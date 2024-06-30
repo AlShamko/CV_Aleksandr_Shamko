@@ -6,8 +6,7 @@
 
 ## My Objective
 
-    Seeking a position as a frontend developer in a dynamic and innovative company. 
-    Where I can apply my skills in developing modern web applications and contribute to enhancing the user experience.
+  Seeking a position as a frontend developer in a dynamic and innovative company. Where I can apply my skills in developing modern web applications and contribute to enhancing the user experience.
 
 ***
 
