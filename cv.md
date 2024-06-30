@@ -13,12 +13,12 @@
 
 ## Contact Information:
 
-    * Location: Poznan, Poland
-    * Phone: +48 731 690 917
-    * LinkedIn: linkedin.com/in/aleksandr-shamko
-    * CodeWors: https://www.codewars.com/users/AlShamko
-    * GitHub: AlShamko
-    * Email: shamkoag@gmail.com
+  - Location: Poznan, Poland
+  - Phone: +48 731 690 917
+  - LinkedIn: linkedin.com/in/aleksandr-shamko
+  - CodeWors: https://www.codewars.com/users/AlShamko
+  - GitHub: AlShamko
+  - Email: shamkoag@gmail.com
 
 ***
 
