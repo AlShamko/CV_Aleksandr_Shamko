@@ -1,6 +1,6 @@
 [rsschool-cv](https://AlShamko.github.io/rsschool-cv/cv)
 
-# Hi, my name is **Aleksandr** frontend developer
+# Hi, my name is _Aleksandr_ frontend developer
 
 ## My Objective
 
@@ -10,15 +10,15 @@
 
     * Location: Poznan, Poland
     * Phone: +48 731 690 917
-    	* LinkedIn: linkedin.com/in/aleksandr-shamko
-    	* CodeWors: https://www.codewars.com/users/AlShamko
-    	* GitHub: AlShamko
+    * LinkedIn: linkedin.com/in/aleksandr-shamko
+    * CodeWors: https://www.codewars.com/users/AlShamko
+    * GitHub: AlShamko
     * Email: shamkoag@gmail.com
 
 ## Skills
 
     * Programming Languages: JavaScript (ES6+), HTML5, CSS3
-    	* Development Tools: Git, GitHub, Visual Studio Code,  Chrome Dev Tools, Figma
+    * Development Tools: Git, GitHub, Visual Studio Code,  Chrome Dev Tools, Figma
 
 ## Education
 
