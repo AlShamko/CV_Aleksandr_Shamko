@@ -23,20 +23,20 @@
 
 ## Skills
 
-    * Programming Languages: JavaScript (ES6+), HTML5, CSS3
-    * Development Tools: Git, GitHub, Visual Studio Code,  Chrome Dev Tools, Figma
+  - Programming Languages: JavaScript (ES6+), HTML5, CSS3
+  - Development Tools: Git, GitHub, Visual Studio Code,  Chrome Dev Tools, Figma
 
 ***
 
 ## Education
 
-    * University: Belarusian State University
-    * Courses:
-        CS50 lectures
-        JavaScript - Полный Курс по JavaScript (Udemy/Bogdan Stashchuk)
+  - University: Belarusian State University
+  - Courses:
+      CS50 lectures
+      JavaScript - Полный Курс по JavaScript (Udemy/Bogdan Stashchuk)
 
 ***
 
 ## English
 
-    A2+ (I had been practicing English, when I worked in the USA as an exchange student)
+  A2+ (I had been practicing English, when I worked in the USA as an exchange student)
