@@ -20,3 +20,33 @@
 	font-style: normal;
 	font-weight: 400;
 }
+
+@font-face {
+	font-family: 'JetBrainsMono';
+	src: url('../fonts/JetBrainsMono-Bold.ttf') format("truetype");
+	font-style: bold;
+	font-weight: 700;
+
+}
+
+@font-face {
+	font-family: 'JetBrainsMono';
+	src: url('../fonts/DMSans-Medium.ttf') format("truetype");
+	font-style: normal;
+	font-weight: 400;
+
+}
+
+@font-face {
+	font-family: 'JetBrainsMono';
+	src: url('../fonts/DMSans-Regular.ttf') format("truetype");
+	font-style: light;
+	font-weight: 300;
+}
+
+@font-face {
+	font-family: 'Consolas';
+	src: url('../fonts/consolas.ttf') format("truetype");
+	font-style: normal;
+	font-weight: 400;
+}
