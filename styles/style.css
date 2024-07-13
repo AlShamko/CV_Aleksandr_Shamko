@@ -78,7 +78,6 @@ body {
 	color: black;
 }
 .name__text {
-	font-family: 'Consolas';
 	font-size: 18px;
 	font-weight: 300;
 	line-height: 20px;
@@ -258,7 +257,7 @@ body {
 	color: black;
 }
 .lending__text {
-	font-family: 'Consolas';
+	font-family: 'JetBrainMono';
 	font-size: 18px;
 	font-weight: 300;
 	line-height: 20px;
@@ -315,7 +314,7 @@ body {
 	color: black;
 }
 .code__text {
-	font-family: 'Consolas';
+	font-family: 'JetBrainMono';
 	font-size: 18px;
 	font-weight: 300;
 	line-height: 20px;
@@ -374,7 +373,7 @@ body {
 	color: black;
 }
 .burger__text {
-	font-family: 'Consolas';
+	font-family: 'JetBrainMono';
 	font-size: 18px;
 	font-weight: 300;
 	line-height: 20px;
